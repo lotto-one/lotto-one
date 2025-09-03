@@ -1,6 +1,6 @@
 <!-- header -->
 <p align='center'>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=03C75A&fontColor=222222&height=200&section=header&text=Developer%20Lottone&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=03C75A&fontColor=FFFFFF&height=200&section=header&text=Developer%20Lottone&fontSize=40"/>
 </p>
 
 
@@ -16,6 +16,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lottone27)](https://solved.ac/lottone27)
 
-![Lottone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotto-one&show_icons=true&theme=radical)
+![Lottone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotto-one&show_icons=true&bg_color=FFFFFF&title_color=03C75A&text_color=333333&icon_color=03C75A)
 
-<img src="http://mazandi.herokuapp.com/api?handle=lottone27&theme=dark"/>
+
