@@ -14,4 +14,4 @@
 </p>
 
 
-<img src="http://mazandi.herokuapp.com/api?handle={lottone27}&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle=lottone27&theme=dark"/>
