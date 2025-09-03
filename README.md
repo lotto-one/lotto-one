@@ -12,3 +12,6 @@
 <!-- Tistory -->
 <a href="https://lottone.tistory.com/"><img src="https://img.shields.io/badge/Lottone Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
+
+
+<img src="http://mazandi.herokuapp.com/api?handle={lottone27}&theme=dark"/>
