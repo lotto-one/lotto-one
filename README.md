@@ -13,5 +13,9 @@
 <a href="https://lottone.tistory.com/"><img src="https://img.shields.io/badge/Lottone Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=lottone27)](https://solved.ac/lottone27)
+
+![Lottone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotto-one&show_icons=true&theme=radical)
 
 <img src="http://mazandi.herokuapp.com/api?handle=lottone27&theme=dark"/>
